@@ -1,5 +1,12 @@
 # docker-wordpress-scss-es2015
 
+## TODO
+
+- scss compile
+- es2016 compile
+- add php template files
+- live reload
+
 ## start
 
 - install docker/docker-compose
@@ -10,4 +17,4 @@ cd ./docker-wordpress-scss-es2015
 docker-compose up
 ```
 
-then open http://localhost:8888 no browser.
+then open http://localhost:8888 on browser.
