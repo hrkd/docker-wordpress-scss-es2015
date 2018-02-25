@@ -3,7 +3,7 @@
 ## TODO
 
 - scss compile
-- es2016 compile
+- es2015 compile
 - add php template files
 - live reload
 
