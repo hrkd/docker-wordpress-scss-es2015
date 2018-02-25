@@ -1,5 +1,7 @@
 # docker-wordpress-scss-es2015
 
+based on https://github.com/wakamsha/wordpress_docker-compose
+
 ## TODO
 
 - scss compile
