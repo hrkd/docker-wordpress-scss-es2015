@@ -12,11 +12,8 @@ based on https://github.com/wakamsha/wordpress_docker-compose
 ## start
 
 - install docker/docker-compose
+- `cp .env.sample .env`
+- `docker-compose up`
 
-```
-git clone git@github.com:hrkd/docker-wordpress-scss-es2015.git
-cd ./docker-wordpress-scss-es2015
-docker-compose up
-```
 
 then open http://localhost:8888 on browser.
