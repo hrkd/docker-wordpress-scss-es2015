@@ -11,6 +11,7 @@ services:
     env_file: .env
     volumes:
       - ./themes/docker-wordpress-scss-es2015:/var/www/html/wp-content/themes/docker-wordpress-scss-es2015
+      - ./plugins:/var/www/html/wp-content/plugins
   db:
     image: mysql:latest
     env_file: .env
