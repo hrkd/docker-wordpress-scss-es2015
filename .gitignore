@@ -1,1 +1,10 @@
+.DS_Store
+*.sw*
+node_modules/
+build/
+npm-debug.log
+doc/
 .env
+themes/docker-wordpress-scss-es2015/assets/
+plugins/*
+!plugins/.gitkeep
