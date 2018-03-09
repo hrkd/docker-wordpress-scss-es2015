@@ -14,6 +14,7 @@
   "scripts": {
     "start": "gulp",
     "build": "gulp build",
+    "docker": "docker-compose up",
     "lint": "gulp lint"
   },
   "repository": {
