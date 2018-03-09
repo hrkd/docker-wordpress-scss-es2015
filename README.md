@@ -4,9 +4,9 @@ based on https://github.com/wakamsha/wordpress_docker-compose
 
 ## TODO
 
-- scss compile
-- es2015 compile
-- add php template files
+- ~~scss compile~~
+- ~~es2015 compile~~
+- ~~add php template files~~
 - live reload
 
 ## start
@@ -15,5 +15,14 @@ based on https://github.com/wakamsha/wordpress_docker-compose
 - `cp .env.sample .env`
 - `docker-compose up`
 
-
 then open http://localhost:8888 on browser.
+
+## tips
+
+ssh
+
+```
+docker ps
+docker exec -it {CONTAINER ID} bash
+```
+
